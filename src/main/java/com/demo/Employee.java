@@ -1,3 +1,11 @@
+//The program is about storing employee data using collection data type using arraylist
+//and performing CURD operations on the data.
+//NOTE: 1)Employee.java--> a getters and setters class file to pass this a an object to
+//Storage.java class.
+//2)Storage.java it takes wrapper class as an object i.e., Employee.java
+//3)Main.java control of the program is done here.
+//For more info: See Edureka Day8 Assignament problem.
+
 package com.demo;
 
 public class Employee {
